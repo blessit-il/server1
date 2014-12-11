@@ -1,0 +1,7 @@
+G:\CurrentProjects\Blessit\Blessit.Host\bin\Blessit.Host.dll
+G:\CurrentProjects\Blessit\Blessit.Host\bin\Blessit.Host.pdb
+G:\CurrentProjects\Blessit\Blessit.Host\bin\Blessit.Service.dll
+G:\CurrentProjects\Blessit\Blessit.Host\bin\Blessit.Service.pdb
+G:\CurrentProjects\Blessit\Blessit.Host\obj\Debug\Blessit.Host.csprojResolveAssemblyReference.cache
+G:\CurrentProjects\Blessit\Blessit.Host\obj\Debug\Blessit.Host.dll
+G:\CurrentProjects\Blessit\Blessit.Host\obj\Debug\Blessit.Host.pdb

@@ -1,0 +1,11 @@
+G:\CurrentProjects\Blessit\Blessit.Service\bin\Debug\Blessit.Service.dll
+G:\CurrentProjects\Blessit\Blessit.Service\bin\Debug\Blessit.Service.pdb
+G:\CurrentProjects\Blessit\Blessit.Service\bin\Debug\Blessit.Business.dll
+G:\CurrentProjects\Blessit\Blessit.Service\bin\Debug\Blessit.Data.dll
+G:\CurrentProjects\Blessit\Blessit.Service\bin\Debug\Blessit.Utils.dll
+G:\CurrentProjects\Blessit\Blessit.Service\bin\Debug\Blessit.Business.pdb
+G:\CurrentProjects\Blessit\Blessit.Service\bin\Debug\Blessit.Data.pdb
+G:\CurrentProjects\Blessit\Blessit.Service\bin\Debug\Blessit.Utils.pdb
+G:\CurrentProjects\Blessit\Blessit.Service\obj\Debug\Blessit.Service.csprojResolveAssemblyReference.cache
+G:\CurrentProjects\Blessit\Blessit.Service\obj\Debug\Blessit.Service.dll
+G:\CurrentProjects\Blessit\Blessit.Service\obj\Debug\Blessit.Service.pdb

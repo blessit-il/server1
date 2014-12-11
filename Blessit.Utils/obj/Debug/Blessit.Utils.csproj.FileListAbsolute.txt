@@ -1,0 +1,4 @@
+G:\CurrentProjects\Blessit\Blessit.Utils\bin\Debug\Blessit.Utils.dll
+G:\CurrentProjects\Blessit\Blessit.Utils\bin\Debug\Blessit.Utils.pdb
+G:\CurrentProjects\Blessit\Blessit.Utils\obj\Debug\Blessit.Utils.dll
+G:\CurrentProjects\Blessit\Blessit.Utils\obj\Debug\Blessit.Utils.pdb
